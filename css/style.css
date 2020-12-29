@@ -1,0 +1,19 @@
+body
+{
+    font-family: 'segoe ui';    
+}
+.main-color{
+    color: #AAA;
+}
+
+
+header .container{ 
+   font-size: 25px;
+}
+section .container{
+    background-color: #EEE
+}
+section .container p{
+    font-size: 24px;
+    font-weight: 700;
+}
